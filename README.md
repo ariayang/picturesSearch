@@ -1,4 +1,4 @@
-# This is an Pictures-search App created from React
+# This is a Pictures-search App created from React
 
 This project was created following "Modern React with Redux" course on Udemy taught by Stephen Grider.
 
