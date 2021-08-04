@@ -1,4 +1,4 @@
-# This is a Pictures-search App created from React
+# This is a Pictures-search App created with React
 
 This project was created following "Modern React with Redux" course on Udemy taught by Stephen Grider.
 
@@ -12,3 +12,5 @@ Created Separate reusable React components:
     . ImageCard for each image render with the correct height
     . ImageList for rendering list of images fetched (axios) from unSplash
     . API to unsplash
+    . Props and Callback functions to transfer data between React components
+    . Use States to render the search array, and the images dynamic display
